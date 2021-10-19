@@ -3,8 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=8257E5&labelColor=000000" alt="Checkplant" />
-  
   <img src="https://img.shields.io/github/stars/taiuanpagini/checkplant?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
 </p>
 

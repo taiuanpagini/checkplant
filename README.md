@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Checkplant" src=".github/logo-checkplant.png" width="160px">
+  <img alt="Checkplant" src=".github/logo.png" width="160px">
 </p>
 
 <p align="center">

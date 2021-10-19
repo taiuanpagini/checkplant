@@ -1,0 +1,11 @@
+header {
+  background: var(--white);
+  padding: 1.5rem 1rem;
+  z-index: 9999;
+  position: relative;
+
+  h1 {
+    color: var(--gray-700);
+    font-size: 1.5rem;
+  }
+}

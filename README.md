@@ -44,4 +44,4 @@ Checkplant é um projeto desenvolvido como parte de um teste, onde o usuário po
 
 ---
 
-Feito com 💜 by Taiuan Pagini 👋🏻
+Feito com 💜 &nbsp;by Taiuan Pagini 👋🏻

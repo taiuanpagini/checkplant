@@ -19,6 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Leaflet](https://react-leaflet.js.org/)
+- [Jest](https://jestjs.io/pt-BR/docs/tutorial-react)
+- [Testing Library](https://testing-library.com)
 
 ## 🚀 Como executar
 

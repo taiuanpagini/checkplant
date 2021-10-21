@@ -8,6 +8,7 @@ const ActionButton: React.FC<ActionButtonProps> = (props) => {
 
   return (
     <Container
+      title={title}
       onClick={() => action()}
       color={color}
       background={background}

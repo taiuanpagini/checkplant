@@ -40,6 +40,12 @@ $ yarn start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
+Para rodar os testes, siga os passos abaixo:
+```bash
+# Iniciar os testes
+$ yarn test
+```
+
 ## 💻 Projeto
 
 Checkplant é um projeto desenvolvido como parte de um teste, onde o usuário pode adicionar pontos de monitoramento, excluir ou editar os pontos.
